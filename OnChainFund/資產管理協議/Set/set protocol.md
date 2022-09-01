@@ -1,0 +1,1 @@
+litepaper: https://docs.tokensets.com/protocol/litepaper
