@@ -62,6 +62,7 @@ CAI整合到Yeti Finance協議中將提高該指數的效用，允許投資者�
 ### Degis(盾牌)
 ![](https://miro.medium.com/max/1400/1*HXgK113gJ_kcwjgveAAI9w.png)
 加密貨幣波動度大,比起傳統金融市場中的資產有更大的風險。 風險偏好是每個人所獨有的，但總的來說，在這個快速增長的資產類別中，保險有著不斷成長的需求。 CAI與Degis的合作，CAI投資者將能夠減輕風險，並保護他們的整個資產免受巨大的價格波動,極端市場變化和黑天鵝事件的影響。
+![](https://miro.medium.com/max/1400/0*K6LXQXIVIP2OYNrZ)
 [Degis價格保護保險產品](https://docs.degis.io/protection-product/price-protection)涵蓋BTC、AVAX以及主要雪崩項目代幣，以降低雪崩生態系統的風險。 
 目前，大多數保險協議只專注於覆蓋智能合約缺陷和協議駭客。 在Degis上，堅固的基礎設施涵蓋了價格波動，並擁有更大的市場空間。
 CAI投資者將能夠購買/出售/建立相應的保護代幣。 如果保險到期日CAI價格較低，保護令牌持有人將獲得補償。
@@ -74,6 +75,12 @@ Degis是由香港科技大學團隊建立的，連線實體世界和數字世界
 ### Phuture
 #### 項目介紹
 [Phuture](https://www.phuture.finance/)（PHTR）是一個分散的加密指數平臺，透過以太坊和雪崩上的自動化主題指數基金簡化投資。 任何有網際網路連線的人都可以訪問，Phuture非常適合希望升級其加密投資策略的投資者。 Phuture成立於2019年，已從風險投資和加密基金籌集了375萬美元。
+
+目前有三個產品：
+- 面向 Defi 的指數 -> PDI
+- 和 Colony 合作,雪崩鏈生態指數 -> CAI (尚未正式推出)
+- 穩定幣的存款產品 -> [FRP](https://www.phuture.finance/savings-vaults-waitlist) (尚未正式推出)
+
 [Twitter](https://twitter.com/phuture_finance)
 [訂閱](http://phuture.finance/contact)
 
@@ -92,6 +99,11 @@ Colony 是一個社群驅動的加速器，演變為一個包容性的DAO，以�
 Colony在早期階段專案中在雪崩中部署資本，為DeFi協議提供流動性，透過堆疊功能驗證網路，並將在頂級雪崩專案上維護索引。 Colony 投資產生的真正支撐和價值透過空投、回購機制和賭注獎勵被送回社群。
 [Website](https://colonylab.io/) 
 [Medium](https://medium.com/@Colonylab)
+
+
+## 總結
+CAI 是最近看到蠻令人興奮的項目,除了以太坊上的 DPI 目前很少這種大規模的指數型基金,再加上 CAI 跟雪崩鏈上很多頭部 Defi 項目合作,未來的功能性也有保障,並且也可能會帶動很多項目的幣價,對新手來說也有了一個更直觀的投資標的
+目前公開的資訊大概只有這樣,隨著 Colony 釋出更多資訊,未來也會持續關注並且把第一手消息整理和翻譯
 
 ## 第一手資訊
 
